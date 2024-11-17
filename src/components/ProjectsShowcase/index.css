@@ -1,0 +1,51 @@
+.projects-showcase-container {
+  background-color: #f1f5f9;
+  background-size: cover;
+  height: 100vh;
+}
+
+.nav-menu {
+  background-color: #cbd5e1;
+  height: 10vh;
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.website-logo {
+  width: 200px;
+
+  margin-left: 100px;
+}
+
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.failure-view {
+  width: 40%;
+}
+
+.retry-btn {
+  color: #ffffff;
+  background-color: #328af2;
+  height: 40px;
+  width: 100;
+
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.list-container {
+  list-style-type: none;
+  padding: 0px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  margin: 0px;
+}

@@ -1,0 +1,18 @@
+.list-card {
+  width: 200px;
+
+  border-radius: 10px;
+
+  margin: 10px;
+}
+
+.project-img {
+  width: 200px;
+}
+
+.paragraph1 {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
